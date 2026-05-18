@@ -1,0 +1,17 @@
+{
+  "name": "power-outage-incident-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "outage",
+    "smart-grid",
+    "incident-tracker",
+    "substation",
+    "restoration"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
